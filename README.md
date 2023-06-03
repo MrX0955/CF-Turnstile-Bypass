@@ -1,8 +1,5 @@
 # CF-Turnstile-Bypass
-**This is a CloudFlare Turnstile Bypass Guide**
+> This guide about bypass cf-turnstile via capmonster and python.
 
 # Install Package
 > pip install capmonster_python
-
-# Informations
-> This guide about bypass cf-turnstile via capmonster and python.
